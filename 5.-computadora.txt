@@ -1,0 +1,3 @@
+esta es una computadora COMP_1
+el modelo del monitor es SFHOPHS03L
+el tipo de raton es USB
